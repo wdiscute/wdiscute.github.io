@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.wdiscute",
+    "module": "wdUtils",
+    "version": "1.8.1-FORGE-1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wdUtils-1.8.1-FORGE-1.20.1-sources.jar",
+          "url": "wdUtils-1.8.1-FORGE-1.20.1-sources.jar",
+          "size": 14312,
+          "sha512": "c899b3f1d2c38dce63b1009f6b71714a60e4127a0834d6a09fffc76f8c89192c23c86fe46b89903c68be07eb4a4613245a9e9e17d2547f4318056e5694e641f2",
+          "sha256": "d110f238f487c5a570491b1d1cd23f0c5ad171c6795c018d92545f9bfd551300",
+          "sha1": "326808125762558a5057a506f44c46a7750c851d",
+          "md5": "6876687b65424da10edf688fb7107375"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wdUtils-1.8.1-FORGE-1.20.1-javadoc.jar",
+          "url": "wdUtils-1.8.1-FORGE-1.20.1-javadoc.jar",
+          "size": 175989,
+          "sha512": "8f388ca96a18e1984cfce03cda0039cadadfa01c17a3f9da453a58be77046c9fb1f818a6903cdf0edae13145ba5df6b54d3ba1d86342c76a70a8a7e20024a126",
+          "sha256": "e2bfa5419ceac7382f05183c9c2571dc5d6e4668ea6056e9e714b783fd78c963",
+          "sha1": "2cef70e1b0914123cf2c757b99fe04d952fceb0b",
+          "md5": "c4bb2399d82f7639c73ac7f3c9e8c303"
+        }
+      ]
+    },
+    {
+      "name": "reobfRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wdUtils-1.8.1-FORGE-1.20.1.jar",
+          "url": "wdUtils-1.8.1-FORGE-1.20.1.jar",
+          "size": 1061472,
+          "sha512": "dc7108ae4cd6a1dbd05e971b9a1bf42187ea22896537a5d6abe259112cef3b2b92c01496fdd75bdeec9ba4edbfb82a3959cd22ca5903942b73ab3c5c86bf4b81",
+          "sha256": "72f0cc4cbfbbfb41d6c7fcbf43e9ee698a8e3ec23912a1b5860dab2edbc1eaa0",
+          "sha1": "2d343b4e0c313def51249bd9b66fb4003c42c190",
+          "md5": "a571e2ee84ecca73b9484a9f93d5843d"
+        }
+      ]
+    },
+    {
+      "name": "reobfApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "wdUtils-1.8.1-FORGE-1.20.1.jar",
+          "url": "wdUtils-1.8.1-FORGE-1.20.1.jar",
+          "size": 1061472,
+          "sha512": "dc7108ae4cd6a1dbd05e971b9a1bf42187ea22896537a5d6abe259112cef3b2b92c01496fdd75bdeec9ba4edbfb82a3959cd22ca5903942b73ab3c5c86bf4b81",
+          "sha256": "72f0cc4cbfbbfb41d6c7fcbf43e9ee698a8e3ec23912a1b5860dab2edbc1eaa0",
+          "sha1": "2d343b4e0c313def51249bd9b66fb4003c42c190",
+          "md5": "a571e2ee84ecca73b9484a9f93d5843d"
+        }
+      ]
+    }
+  ]
+}
