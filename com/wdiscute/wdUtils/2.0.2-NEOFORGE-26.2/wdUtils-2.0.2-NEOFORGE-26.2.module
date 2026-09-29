@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.wdiscute",
+    "module": "wdUtils",
+    "version": "2.0.2-NEOFORGE-26.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "wdUtils-2.0.2-NEOFORGE-26.2.jar",
+          "url": "wdUtils-2.0.2-NEOFORGE-26.2.jar",
+          "size": 69676,
+          "sha512": "cebef68cb6c0ae0b35a8b494ca4760b0bad9b992ee7d135998f2a582d9437a9bdbb579d65cecd23676719581733c42c58443f7268776303f8dfbd7719d03d593",
+          "sha256": "6a2fdf41a5f2dab2820b442f7271ef72f14b3136a60b4b2745aa0ae1784f3ba9",
+          "sha1": "2146c1f95060562e1352391a1c2a15e83f12ba99",
+          "md5": "c6761bfda17671531e51d204b99fcd1d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wdUtils-2.0.2-NEOFORGE-26.2.jar",
+          "url": "wdUtils-2.0.2-NEOFORGE-26.2.jar",
+          "size": 69676,
+          "sha512": "cebef68cb6c0ae0b35a8b494ca4760b0bad9b992ee7d135998f2a582d9437a9bdbb579d65cecd23676719581733c42c58443f7268776303f8dfbd7719d03d593",
+          "sha256": "6a2fdf41a5f2dab2820b442f7271ef72f14b3136a60b4b2745aa0ae1784f3ba9",
+          "sha1": "2146c1f95060562e1352391a1c2a15e83f12ba99",
+          "md5": "c6761bfda17671531e51d204b99fcd1d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wdUtils-2.0.2-NEOFORGE-26.2-sources.jar",
+          "url": "wdUtils-2.0.2-NEOFORGE-26.2-sources.jar",
+          "size": 21846,
+          "sha512": "6a0329cff0133b1f375c366ea512ae84c186ee770517491c8b311663f3f9da5315524f5c11dd937f58c80010bc85758d4304de8ec387ea8cdd7638a15c9920a9",
+          "sha256": "58dd9481fd7207d534ec13d5af2aafee09a2605b8f5efd8a9966e464238df910",
+          "sha1": "7098f36017da52c9bb0c3bf1e7f76838a6e7e790",
+          "md5": "7357469fb0cdc6222981f2c3a132be82"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wdUtils-2.0.2-NEOFORGE-26.2-javadoc.jar",
+          "url": "wdUtils-2.0.2-NEOFORGE-26.2-javadoc.jar",
+          "size": 4299152,
+          "sha512": "9a76d3ea6be61dd1df5acb8d6b7299f514b9a44b7347776a0148e482d7d7666051fb776ad7151ddafce3087a208790e7ac62a8a887f9c4ba3ea319fe9cdfd754",
+          "sha256": "d1b9edfcba610e81a1ffe7563620a98b864d1c13ecd523143a360dab44ed0e6b",
+          "sha1": "32611b700bc9a6e549d271f51737a388c2426288",
+          "md5": "e6cf29240b9bc8cd1ed48dda0ad52b3f"
+        }
+      ]
+    }
+  ]
+}
